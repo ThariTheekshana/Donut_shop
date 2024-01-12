@@ -46,7 +46,7 @@
 		</data>
 		<key>Frameworks/App.framework/App</key>
 		<data>
-		BYcP2KktTyhm0CrQQJyxTjm1GXw=
+		phoTBfEPFma20t+vwOF/BvmzuWI=
 		</data>
 		<key>Frameworks/App.framework/Info.plist</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Frameworks/App.framework/_CodeSignature/CodeResources</key>
 		<data>
-		joUOFn3qin8y610wgu+13fd4SE0=
+		RRFZfFa1nSWn5xonWutoAFDbh1Q=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.bin</key>
 		<data>
@@ -82,7 +82,7 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/kernel_blob.bin</key>
 		<data>
-		VbmeYpssmnG1/C3pkW3z9p9ao5w=
+		Usj0cYxcZCA5A1kNZY7syEwWOZw=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/lib/icons/burger.png</key>
 		<data>
@@ -329,7 +329,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gdK8MFCt/deHUza8alctqZ8El10epdxkHR1Tx4bSoS8=
+			NbBx7NMSCL1tp64MWSG95OawhDAjJE5q2DCPvUOAbns=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/Info.plist</key>
@@ -343,7 +343,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			myhjUtVG4In9Vvi+TdbBr2PVIVRczqaeTN1DhFTz4cU=
+			YJcvGVqGUuqkqh6Fztu2VPgLNoFohJ5u9Drb1ldbwWY=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.bin</key>
@@ -392,7 +392,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			kICQPSt1muO3MpohInS41GipTXa3bkK7IoK7YHY2oUs=
+			tj4kgA2rw0zvUdVYMYpq15vYGZDE1rN4ukGNv+Nn3Cg=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/lib/icons/burger.png</key>
